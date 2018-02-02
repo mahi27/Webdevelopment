@@ -1,2 +1,2 @@
 # Webdevelopment
-Pet Projects using HTML, CSS, js
+My Pet Projects using HTML, CSS, js
